@@ -1,9 +1,11 @@
 {
-    "users": [{
-        "id": 1,
-        "username": "chris",
-        "password": "NothingSpecial",
-        "first_name": "Chris",
-	"last_name": "Morris"
-    }]
+    "users": [
+	{
+	        "id": 1,
+       	 	"username": "chris",
+       	 	"password": "NothingSpecial",
+        	"first_name": "Chris",
+		"last_name": "Morris"
+    	}
+    ]
 }
